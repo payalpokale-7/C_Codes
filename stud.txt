@@ -1,0 +1,18 @@
+
+Rollno=1	Name=ram	Result=67.000000
+
+Rollno=2	Name=tina	Result=89.000000
+
+Rollno=3	Name=isha	Result=90.000000
+
+Rollno=1	Name=ram	Result=89.000000
+
+Rollno=2	Name=tima	Result=90.000000
+
+Rollno=5	Name=uuh	Result=9.000000
+
+Rollno=4	Name=raj	Result=783.000000
+
+Rollno=6	Name=idid	Result=98.000000
+
+Rollno=4201104	Name=Tÿa	Result=0.000000
